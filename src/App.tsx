@@ -19,7 +19,9 @@ export default function App() {
 
         <div className="text-center mb-16 mt-2 relative z-10">
           <h1 className="text-3xl sm:text-5xl font-medium text-[#1a1814] tracking-tight mb-4 leading-tight">
-            Blessed-to-be Fulton Sheen
+            Blessed-to-be 
+            <br />
+            Fulton Sheen
           </h1>
           <span className="font-caveat text-3xl sm:text-4xl text-[#7a7363] -rotate-2 inline-block tracking-wide">
             our lenten companion
