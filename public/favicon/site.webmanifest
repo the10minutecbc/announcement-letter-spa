@@ -1,0 +1,19 @@
+{
+    "name": "10minCBC Lenten Letter",
+    "short_name": "10minCBC",
+    "icons": [
+        {
+            "src": "/favicon/icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicon/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#297373",
+    "background_color": "#fcfbfa",
+    "display": "standalone"
+}
